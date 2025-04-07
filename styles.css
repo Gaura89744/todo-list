@@ -1,0 +1,71 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    
+}
+/* h1{
+    text-align: center;
+} */
+.bdy-todo-list{
+    border-radius: 20px;
+    text-align: center;
+    justify-content: center;
+   background-color: rgb(49, 49, 50);
+     color: white;
+    width: 300px;
+    min-height: 150px;
+    padding: 15px;
+    border-color: red;
+    overflow-y: auto;
+}
+#Todoinput{
+    padding: 10px;
+    border-radius: 10px;
+    border-color: rgb(165, 165, 218);
+    background-color: rgb(61, 60, 60);
+    color: beige;
+    margin-bottom: 10px 0 0 0;
+}
+#addtask{
+    background-color: blue;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+   border: none;
+   cursor: pointer;
+   margin-top: 10px;
+   margin-left: 10px;
+}
+#task-list{
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 0 0;
+    text-align: left;
+}
+#task-list li {
+background: rgb(70,70,70);
+padding: 10px;
+border-radius: 8px;
+margin: 5px 0;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.completed{
+    text-decoration: line-through;
+    color: gray;
+}
+.delete-btn{
+background: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
