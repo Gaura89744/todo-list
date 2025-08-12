@@ -28,6 +28,7 @@ A clean and responsive to-do list application that lets you manage tasks easily 
    git clone https://github.com/Gaura89744/todo-list.git
 2.Open the project folder
    cd todo-list
+   
 3.Open index.html in your browser to start using the app.
 
 ⚙️ How It Works
@@ -40,5 +41,5 @@ Managing persistent storage without a backend
 Handling event listeners for dynamically added tasks
 Keeping the UI clean and user-friendly
 
-Made with ❤️ by Gaurav
+    Made with ❤️ by Gaurav
 
