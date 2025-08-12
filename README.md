@@ -41,5 +41,4 @@ Managing persistent storage without a backend
 Handling event listeners for dynamically added tasks
 Keeping the UI clean and user-friendly
 
-    Made with ❤️ by Gaurav
-
+> Made with ❤️ by Gaurav
