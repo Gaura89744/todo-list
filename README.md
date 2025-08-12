@@ -2,7 +2,8 @@
 
 A clean and responsive to-do list application that lets you manage tasks easily with a simple, interactive interface.
 
-![Screenshot](./screenshot/Screenshot 2025-08-11 003248.png)
+![Screenshot](./screenshot/Screenshot%202025-08-11%20003248.png)
+
 
 ## 🔧 Features
 
